@@ -268,36 +268,9 @@ adb shell ping your-api-endpoint.com
 - **Memory Usage**: < 200MB during operation
 - **Battery Impact**: Minimal (designed for plugged-in operation)
 
-## Contributing
-
-We welcome contributions to improve the Digital Signage application. Please follow these guidelines:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-### Development Guidelines
-
-- Follow existing code style and conventions
-- Add appropriate error handling
-- Include unit tests for new features
-- Update documentation as needed
-- Test on target platforms before submitting
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Support
-
-For technical support and assistance:
-
-- **Email Support**: support@yourcompany.com
-- **Issue Tracking**: [GitHub Issues](https://github.com/yourusername/digital-signage/issues)
-- **Documentation**: [Project Wiki](https://github.com/yourusername/digital-signage/wiki)
-- **Community**: [Discussions](https://github.com/yourusername/digital-signage/discussions)
 
 ## Acknowledgments
 
